@@ -1,0 +1,21 @@
+{
+    "name": "zonix",
+    "displayName": "Zonix",
+    "description": "A simple theme for vscode.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Zonix",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zonix-color-theme.json"
+            }
+        ]
+    }
+}
