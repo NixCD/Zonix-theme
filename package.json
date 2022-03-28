@@ -12,9 +12,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Zonix",
+                "label": "Zonix-original",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Zonix-color-theme.json"
+            },
+            {
+                "label": "Zonix-version-1.0",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Zonix-color-version-1.0.json"
             }
         ]
     }
